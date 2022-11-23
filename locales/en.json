@@ -1,0 +1,16 @@
+{
+  "unlocked_door": "UNLOCKED",
+  "locked_door": "LOCKED",
+  "lock_door": "[E] LOCK",
+  "unlock_door": "[E] UNLOCK",
+  "door_lock": "DOORLOCK",
+  "passcode": "PASSCODE",
+  "lockpick_broke": "LOCKPICK BROKE",
+  "pick_lock": "LOCKPICK",
+  "add_lock": "ADD DOORLOCK",
+  "edit_lock": "EDIT DOORLOCK",
+  "remove_lock": "REMOVE DOORLOCK",
+  "cannot_unlock": "NOT QUALIFIED",
+  "cannot_lock": "NOT QUALIFIED",
+  "create_modify_lock": "CREATE OR EDIT DOORLOCK"
+}
